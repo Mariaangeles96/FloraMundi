@@ -2,9 +2,9 @@
 Práctica de examen usando FloraMundi como ejemplo
 
 ## Jerarquía
--Dirección
-  -Confidencial
-  -Libre
+- Dirección
+  - Confidencial
+  - Libre
 - Calidad
 - Operativa
   - Producción
