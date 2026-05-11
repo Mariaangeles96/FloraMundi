@@ -3,19 +3,20 @@ Práctica de examen usando FloraMundi como ejemplo
 
 ## Jerarquía
 -Dirección
-  --Confidencial
-  --Libre
+  - Confidencial
+  - Libre
+    
 -Calidad
 -Operativa
-  --Producción
-  --Logística
+  - Producción
+  - Logística
 -Comercial_Marketing
 -Legal
 
 ## Etiquetas 
 -Sede: espana, paises_bajos, colombia, kenia
 -Producto: lirios, rosas, claveles, orquídeas
--Tipo documento: ficha-tecnica, certificado, contrato, guia
+-Tipo documento: ficha_tecnica, certificado, contrato, guia
 -Temporada: verano, navidad, invierno
 -Estado: borrador, en_revisión, en_proceso, archivado, enviado, publicado, rechazado, cobrado, por_cobrar
 
