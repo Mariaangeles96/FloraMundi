@@ -5,13 +5,13 @@ Práctica de examen usando FloraMundi como ejemplo
 -Dirección
   - Confidencial
   - Libre
-    
--Calidad
--Operativa
+- Calidad
+- Operativa
   - Producción
   - Logística
--Comercial_Marketing
--Legal
+    
+- Comercial_Marketing
+- Legal
 
 ## Etiquetas 
 -Sede: espana, paises_bajos, colombia, kenia
